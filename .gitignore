@@ -1,0 +1,524 @@
+Herb-a-mate/platformio.ini
+Herb-a-mate/.pio/build/project.checksum
+Herb-a-mate/.pio/build/esp32dev/.sconsign311.dblite
+Herb-a-mate/.pio/build/esp32dev/bootloader.bin
+Herb-a-mate/.pio/build/esp32dev/firmware.bin
+Herb-a-mate/.pio/build/esp32dev/firmware.elf
+Herb-a-mate/.pio/build/esp32dev/firmware.map
+Herb-a-mate/.pio/build/esp32dev/libFrameworkArduino.a
+Herb-a-mate/.pio/build/esp32dev/partitions.bin
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/base64.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/base64.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/cbuf.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/cbuf.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Esp.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Esp.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-adc.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-adc.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-bt.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-bt.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-cpu.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-cpu.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-dac.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-dac.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-gpio.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-gpio.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c-slave.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c-slave.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-ledc.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-ledc.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-matrix.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-matrix.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-misc.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-misc.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-psram.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-psram.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rgb-led.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rgb-led.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rmt.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rmt.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-sigmadelta.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-sigmadelta.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-spi.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-spi.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-time.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-time.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-timer.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-timer.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-tinyusb.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-tinyusb.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-touch.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-touch.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-uart.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/esp32-hal-uart.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/firmware_msc_fat.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/firmware_msc_fat.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/FirmwareMSC.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/FirmwareMSC.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/FunctionalInterrupt.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/FunctionalInterrupt.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/HardwareSerial.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/HardwareSerial.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/HWCDC.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/HWCDC.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/IPAddress.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/IPAddress.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/IPv6Address.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/IPv6Address.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/main.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/main.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/MD5Builder.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/MD5Builder.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Print.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Print.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/stdlib_noniso.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/stdlib_noniso.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Stream.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Stream.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/StreamString.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/StreamString.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Tone.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/Tone.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/USB.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/USB.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/USBCDC.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/USBCDC.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/USBMSC.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/USBMSC.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/wiring_pulse.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/wiring_pulse.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/wiring_shift.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/wiring_shift.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/WMath.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/WMath.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/WString.cpp.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/WString.cpp.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/libb64/cdecode.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/libb64/cdecode.c.o
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/libb64/cencode.c.d
+Herb-a-mate/.pio/build/esp32dev/FrameworkArduino/libb64/cencode.c.o
+Herb-a-mate/.pio/build/esp32dev/lib19d/libWire.a
+Herb-a-mate/.pio/build/esp32dev/lib19d/Wire/Wire.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib19d/Wire/Wire.cpp.o
+Herb-a-mate/.pio/build/esp32dev/lib2f0/libPubSubClient.a
+Herb-a-mate/.pio/build/esp32dev/lib2f0/PubSubClient/PubSubClient.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib2f0/PubSubClient/PubSubClient.cpp.o
+Herb-a-mate/.pio/build/esp32dev/lib401/libWebServer.a
+Herb-a-mate/.pio/build/esp32dev/lib401/WebServer/Parsing.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib401/WebServer/Parsing.cpp.o
+Herb-a-mate/.pio/build/esp32dev/lib401/WebServer/WebServer.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib401/WebServer/WebServer.cpp.o
+Herb-a-mate/.pio/build/esp32dev/lib401/WebServer/detail/mimetable.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib401/WebServer/detail/mimetable.cpp.o
+Herb-a-mate/.pio/build/esp32dev/lib540/libDHT sensor library for ESPx.a
+Herb-a-mate/.pio/build/esp32dev/lib540/DHT sensor library for ESPx/DHTesp.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib540/DHT sensor library for ESPx/DHTesp.cpp.o
+Herb-a-mate/.pio/build/esp32dev/lib65f/libFS.a
+Herb-a-mate/.pio/build/esp32dev/lib65f/FS/FS.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib65f/FS/FS.cpp.o
+Herb-a-mate/.pio/build/esp32dev/lib65f/FS/vfs_api.cpp.d
+Herb-a-mate/.pio/build/esp32dev/lib65f/FS/vfs_api.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/libWiFi.a
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFi.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFi.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiAP.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiAP.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiClient.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiClient.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiGeneric.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiGeneric.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiMulti.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiMulti.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiScan.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiScan.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiServer.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiServer.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiSTA.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiSTA.cpp.o
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiUdp.cpp.d
+Herb-a-mate/.pio/build/esp32dev/libdfc/WiFi/WiFiUdp.cpp.o
+Herb-a-mate/.pio/build/esp32dev/src/main.cpp.d
+Herb-a-mate/.pio/build/esp32dev/src/main.cpp.o
+Herb-a-mate/.pio/libdeps/esp32dev/integrity.dat
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/.clang-format
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/.gitattributes
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/.gitignore
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/.mbedignore
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/.piopm
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/.prettierignore
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/appveyor.yml
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/ArduinoJson.h
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/CHANGELOG.md
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/CMakeLists.txt
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/component.mk
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/CONTRIBUTING.md
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/idf_component.yml
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/keywords.txt
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/library.json
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/library.properties
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/LICENSE.txt
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/README.md
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/SUPPORT.md
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/JsonConfigFile/JsonConfigFile.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/JsonFilterExample/JsonFilterExample.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/JsonGeneratorExample/JsonGeneratorExample.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/JsonHttpClient/JsonHttpClient.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/JsonParserExample/JsonParserExample.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/JsonServer/JsonServer.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/JsonUdpBeacon/JsonUdpBeacon.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/MsgPackParser/MsgPackParser.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/ProgmemExample/ProgmemExample.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/examples/StringExample/StringExample.ino
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson.h
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/CMakeLists.txt
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/compatibility.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Configuration.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Namespace.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/version.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Array/ElementProxy.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Array/JsonArray.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Array/JsonArrayConst.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Array/JsonArrayImpl.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Array/JsonArrayIterator.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Array/Utilities.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Collection/CollectionData.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Collection/CollectionImpl.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/DeserializationError.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/DeserializationOptions.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/deserialize.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Filter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/NestingLimit.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Reader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Readers/ArduinoStreamReader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Readers/ArduinoStringReader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Readers/FlashReader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Readers/IteratorReader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Readers/RamReader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Readers/StdStreamReader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Deserialization/Readers/VariantReader.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Document/BasicJsonDocument.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Document/DynamicJsonDocument.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Document/JsonDocument.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Document/StaticJsonDocument.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/EscapeSequence.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/JsonDeserializer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/JsonSerializer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/Latch.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/PrettyJsonSerializer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/TextFormatter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/Utf8.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Json/Utf16.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Memory/Alignment.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Memory/MemoryPool.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Misc/SerializedValue.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/MsgPack/endianess.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/MsgPack/ieee754.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/MsgPack/MsgPackDeserializer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/MsgPack/MsgPackSerializer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Numbers/arithmeticCompare.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Numbers/convertNumber.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Numbers/FloatParts.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Numbers/FloatTraits.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Numbers/JsonFloat.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Numbers/JsonInteger.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Numbers/parseNumber.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Object/JsonObject.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Object/JsonObjectConst.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Object/JsonObjectImpl.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Object/JsonObjectIterator.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Object/JsonPair.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Object/MemberProxy.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/alias_cast.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/assert.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/attributes.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/ctype.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/integer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/limits.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/math.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/pgmspace_generic.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/pgmspace.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/preprocessor.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/utility.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/mpl/max.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/conditional.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/declval.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/enable_if.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/integral_constant.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_array.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_base_of.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_class.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_const.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_convertible.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_enum.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_floating_point.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_integral.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_pointer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_same.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_signed.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/is_unsigned.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/make_unsigned.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/make_void.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/remove_const.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/remove_cv.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/remove_reference.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Polyfills/type_traits/type_identity.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/CountingDecorator.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/measure.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/serialize.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/Writer.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/Writers/ArduinoStringWriter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/Writers/DummyWriter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/Writers/PrintWriter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/Writers/StaticStringWriter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/Writers/StdStreamWriter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Serialization/Writers/StdStringWriter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/IsString.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/JsonString.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/StoragePolicy.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/StringAdapter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/StringAdapters.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/StringTraits.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/Adapters/FlashString.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/Adapters/JsonString.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/Adapters/RamString.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Strings/Adapters/StringObject.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/StringStorage/StringCopier.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/StringStorage/StringMover.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/StringStorage/StringStorage.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/Converter.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/ConverterImpl.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/JsonVariant.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/JsonVariantConst.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/SlotFunctions.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantAttorney.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantCompare.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantContent.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantData.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantFunctions.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantImpl.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantOperators.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantRefBase.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantSlot.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantTag.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/VariantTo.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/ArduinoJson/src/ArduinoJson/Variant/Visitor.hpp
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/.piopm
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/.travis.yml
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/DHTesp.cpp
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/DHTesp.h
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/keywords.txt
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/library.json
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/library.properties
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/LICENSE
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/README.md
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/.github/workflows/main.yml
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP32/.esp8266.test.skip
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP32/DHT_ESP32.ino
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP8266/.esp32.test.skip
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP8266/DHT_ESP8266.ino
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_Multi_ESP32/.esp8266.test.skip
+Herb-a-mate/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_Multi_ESP32/DHT_Multi_ESP32.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/.gitignore
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/.piopm
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/.travis.yml
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/CHANGES.txt
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/keywords.txt
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/library.json
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/library.properties
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/LICENSE.txt
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/README.md
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_auth/mqtt_auth.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_basic/mqtt_basic.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_esp8266/mqtt_esp8266.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_large_message/mqtt_large_message.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_publish_in_callback/mqtt_publish_in_callback.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_reconnect_nonblocking/mqtt_reconnect_nonblocking.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_stream/mqtt_stream.ino
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/src/PubSubClient.cpp
+Herb-a-mate/.pio/libdeps/esp32dev/PubSubClient/src/PubSubClient.h
+Herb-a-mate/.vscode/c_cpp_properties.json
+Herb-a-mate/.vscode/extensions.json
+Herb-a-mate/.vscode/launch.json
+Herb-a-mate/include/Main.html
+Herb-a-mate/include/README
+Herb-a-mate/lib/README
+Herb-a-mate/test/README
+Herb-A-Mate MQTT/platformio.ini
+Herb-A-Mate MQTT/.pio/build/project.checksum
+Herb-A-Mate MQTT/.pio/build/esp32dev/.sconsign311.dblite
+Herb-A-Mate MQTT/.pio/build/esp32dev/bootloader.bin
+Herb-A-Mate MQTT/.pio/build/esp32dev/firmware.bin
+Herb-A-Mate MQTT/.pio/build/esp32dev/firmware.elf
+Herb-A-Mate MQTT/.pio/build/esp32dev/firmware.map
+Herb-A-Mate MQTT/.pio/build/esp32dev/idedata.json
+Herb-A-Mate MQTT/.pio/build/esp32dev/libFrameworkArduino.a
+Herb-A-Mate MQTT/.pio/build/esp32dev/partitions.bin
+Herb-A-Mate MQTT/.pio/build/esp32dev/tmpfu7goutp.tmp
+Herb-A-Mate MQTT/.pio/build/esp32dev/tmpv1wqlrws.tmp
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/base64.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/base64.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/cbuf.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/cbuf.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Esp.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Esp.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-adc.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-adc.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-bt.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-bt.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-cpu.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-cpu.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-dac.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-dac.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-gpio.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-gpio.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c-slave.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c-slave.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-ledc.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-ledc.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-matrix.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-matrix.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-misc.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-misc.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-psram.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-psram.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rgb-led.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rgb-led.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rmt.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-rmt.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-sigmadelta.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-sigmadelta.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-spi.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-spi.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-time.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-time.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-timer.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-timer.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-tinyusb.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-tinyusb.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-touch.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-touch.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-uart.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/esp32-hal-uart.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/firmware_msc_fat.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/firmware_msc_fat.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/FirmwareMSC.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/FirmwareMSC.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/FunctionalInterrupt.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/FunctionalInterrupt.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/HardwareSerial.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/HardwareSerial.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/HWCDC.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/HWCDC.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/IPAddress.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/IPAddress.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/IPv6Address.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/IPv6Address.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/main.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/main.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/MD5Builder.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/MD5Builder.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Print.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Print.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/stdlib_noniso.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/stdlib_noniso.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Stream.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Stream.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/StreamString.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/StreamString.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Tone.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/Tone.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/USB.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/USB.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/USBCDC.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/USBCDC.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/USBMSC.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/USBMSC.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/wiring_pulse.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/wiring_pulse.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/wiring_shift.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/wiring_shift.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/WMath.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/WMath.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/WString.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/WString.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/libb64/cdecode.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/libb64/cdecode.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/libb64/cencode.c.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/FrameworkArduino/libb64/cencode.c.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/lib19d/libWire.a
+Herb-A-Mate MQTT/.pio/build/esp32dev/lib19d/Wire/Wire.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/lib19d/Wire/Wire.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/lib312/libPubSubClient.a
+Herb-A-Mate MQTT/.pio/build/esp32dev/lib312/PubSubClient/PubSubClient.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/lib312/PubSubClient/PubSubClient.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libb39/libDHT sensor library for ESPx.a
+Herb-A-Mate MQTT/.pio/build/esp32dev/libb39/DHT sensor library for ESPx/DHTesp.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libb39/DHT sensor library for ESPx/DHTesp.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/libWiFi.a
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFi.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFi.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiAP.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiAP.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiClient.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiClient.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiGeneric.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiGeneric.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiMulti.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiMulti.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiScan.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiScan.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiServer.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiServer.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiSTA.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiSTA.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiUdp.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/libdfc/WiFi/WiFiUdp.cpp.o
+Herb-A-Mate MQTT/.pio/build/esp32dev/src/main.cpp.d
+Herb-A-Mate MQTT/.pio/build/esp32dev/src/main.cpp.o
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/integrity.dat
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/.piopm
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/.travis.yml
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/DHTesp.cpp
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/DHTesp.h
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/keywords.txt
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/library.json
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/library.properties
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/LICENSE
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/README.md
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/.github/workflows/main.yml
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP32/.esp8266.test.skip
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP32/DHT_ESP32.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP8266/.esp32.test.skip
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_ESP8266/DHT_ESP8266.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_Multi_ESP32/.esp8266.test.skip
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/DHT sensor library for ESPx/examples/DHT_Multi_ESP32/DHT_Multi_ESP32.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/.gitignore
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/.piopm
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/.travis.yml
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/CHANGES.txt
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/keywords.txt
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/library.json
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/library.properties
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/LICENSE.txt
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/README.md
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_auth/mqtt_auth.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_basic/mqtt_basic.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_esp8266/mqtt_esp8266.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_large_message/mqtt_large_message.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_publish_in_callback/mqtt_publish_in_callback.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_reconnect_nonblocking/mqtt_reconnect_nonblocking.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/examples/mqtt_stream/mqtt_stream.ino
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/src/PubSubClient.cpp
+Herb-A-Mate MQTT/.pio/libdeps/esp32dev/PubSubClient/src/PubSubClient.h
+Herb-A-Mate MQTT/.vscode/c_cpp_properties.json
+Herb-A-Mate MQTT/.vscode/extensions.json
+Herb-A-Mate MQTT/.vscode/launch.json
+Herb-A-Mate MQTT/include/README
+Herb-A-Mate MQTT/lib/README
+Herb-A-Mate MQTT/test/README
