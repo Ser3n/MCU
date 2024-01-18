@@ -16,11 +16,11 @@ void soilReading();
 
 // Wifi id and password
 const char *ssid = "KaZ Home";
-const char *password = "TinyKoala92UU";
+const char *password = "***********";
 
 // Set MQTT username and password
 const char *mqttUser = "mqtt_user";
-const char *mqttPass = "hello22";
+const char *mqttPass = "*******";
 const char *mqtt_server = "192.168.1.129";
 
 WiFiClient espClient;
