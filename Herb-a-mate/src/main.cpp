@@ -22,7 +22,7 @@ void reconnect();
 
 // Wifi id and password
 const char *ssid = "KaZ Home";
-const char *password = "TinyKoala92UU";
+const char *password = "**********";
 
 DHTesp dht;
 const int ledPin = 4, relayPin = 2;
